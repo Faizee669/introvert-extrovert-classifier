@@ -116,13 +116,13 @@ The project focuses on:
 
 ## License
 
-This project is released under the MIT License. Feel free to use it for academic, educational, or portfolio purposes.
+This project is released under the APACHE2.0 License. Feel free to use it for academic, educational, or portfolio purposes.
 
 ---
 
 ## Contact
 
-Maintainer: [Your Name or GitHub handle]  
+Maintainer: Faizee669  
 Feel free to open issues or pull requests for suggestions and improvements.
 
 ---
@@ -133,5 +133,3 @@ Feel free to open issues or pull requests for suggestions and improvements.
 - Thanks to the open-source libraries and community for their support.
 
 ---
-
-If you want me to help generate a ready-to-upload `requirements.txt` or you want any other additions, just ask!
